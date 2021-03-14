@@ -1,0 +1,2 @@
+D:\TILabs\TILab1\Encryption_lattice\Debug\Encryption_lattice.exe
+D:\TILabs\TILab1\Encryption_lattice\Debug\Encryption_lattice.pdb

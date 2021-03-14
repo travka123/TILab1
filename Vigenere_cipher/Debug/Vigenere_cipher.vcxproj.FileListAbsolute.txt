@@ -1,0 +1,2 @@
+D:\TILabs\TILab1\Vigenere_cipher\Debug\Vigenere_cipher.exe
+D:\TILabs\TILab1\Vigenere_cipher\Debug\Vigenere_cipher.pdb

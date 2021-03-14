@@ -1,0 +1,8 @@
+﻿  Source.c
+D:\TILabs\TILab1\Encryption_lattice\Source.c(10,30): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода
+  5 of 10 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Encryption_lattice.vcxproj -> D:\TILabs\TILab1\Encryption_lattice\Release\Encryption_lattice.exe

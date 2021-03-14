@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\TILabs\TILab1\Column_method_decrypt\Source.c(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Column_method_decrypt.vcxproj -> D:\TILabs\TILab1\Column_method_decrypt\Debug\Column_method_decrypt.exe
