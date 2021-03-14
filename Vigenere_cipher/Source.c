@@ -20,7 +20,7 @@ int main()
 	SetConsoleOutputCP(1251);
 
 	char key[STRING_SIZE];
-	printf("Введите ключ: ");
+	printf("Введите ключ(ру, ниж): ");
 	gets_s(key, STRING_SIZE);
 
 
@@ -30,7 +30,7 @@ int main()
 
 	char shifrtext[STRING_SIZE];
 	Encrypt(text, key, shifrtext);
-	printf("Зашифрованный текст(ру, ниж): %s\n", shifrtext);
+	printf("Зашифрованный текст: %s\n", shifrtext);
 
 
 	return 0;

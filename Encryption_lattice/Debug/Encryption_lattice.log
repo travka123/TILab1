@@ -1,3 +1,5 @@
 ﻿  Lattice.c
-D:\TILabs\TILab1\Encryption_lattice\Lattice.c(33,29): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
-  Encryption_lattice.vcxproj -> D:\TILabs\TILab1\Encryption_lattice\Debug\Encryption_lattice.exe
+C:\TILabs\TILab1\Encryption_lattice\Lattice.c(33,29): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+  Source.c
+  Создание кода...
+  Encryption_lattice.vcxproj -> C:\TILabs\TILab1\Encryption_lattice\Debug\Encryption_lattice.exe

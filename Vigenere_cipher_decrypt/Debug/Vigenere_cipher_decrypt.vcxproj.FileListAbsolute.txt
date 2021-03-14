@@ -1,2 +1,4 @@
 D:\TILabs\TILab1\Vigenere_cipher_decrypt\Debug\Vigenere_cipher_decrypt.exe
 D:\TILabs\TILab1\Vigenere_cipher_decrypt\Debug\Vigenere_cipher_decrypt.pdb
+C:\TILabs\TILab1\Vigenere_cipher_decrypt\Debug\Vigenere_cipher_decrypt.exe
+C:\TILabs\TILab1\Vigenere_cipher_decrypt\Debug\Vigenere_cipher_decrypt.pdb

@@ -33,7 +33,7 @@ void Decrypt(char *shifrtext, int* lattice, const int width)
 				}
 				if (latticeTurn[i][j])
 				{
-					*pstr = shifrtext[j];
+					*pstr = shifrtext[tcount * size + j];
 					pstr++;
 				}
 			}

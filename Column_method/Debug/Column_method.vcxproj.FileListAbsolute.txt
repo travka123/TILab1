@@ -1,2 +1,4 @@
 D:\TILabs\TILab1\Column_method\Debug\Column_method.exe
 D:\TILabs\TILab1\Column_method\Debug\Column_method.pdb
+C:\TILabs\TILab1\Column_method\Debug\Column_method.exe
+C:\TILabs\TILab1\Column_method\Debug\Column_method.pdb
